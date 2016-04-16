@@ -19,7 +19,7 @@
                             "aced": "Crew members that use your first aid kits or doctor bags take 20% less damage for 10 seconds."
                         },
                         {
-                            "title": "Painkilers",
+                            "title": "Painkillers",
                             "basic": "Crew members you revive take 30% less damage for 5 seconds.",
                             "aced": "The damage reduction is increased by an additional 20%."
                         }
@@ -52,7 +52,7 @@
                         {
                             "title": "Cable Guy",
                             "basic": "You can cable tie hostages 75% faster.",
-                            "aced": "Increased your supply of cable ties by 4."
+                            "aced": "Increases your supply of cable ties by 4."
                         }
                     ],
                     [
@@ -63,7 +63,7 @@
                         },
                         {
                             "title": "Joker",
-                            "basic": "You can convert a non-special enemy to fight on your side. This can not be done during stealth and the enemy must have surrendered in order for you to convert it. You can only convert one enemy at a time.",
+                            "basic": "You can convert a non-special enemy to fight on your side. This cannot be done during stealth and the enemy must have surrendered in order for you to convert it. You can only convert one enemy at a time.",
                             "aced": "The converted enemy gains 55% more health and deals 45% more damage. The time to convert an enemy is reduced by 65%. The power and range of your intimidation is increased by 50%."
                         }
                     ],
@@ -138,7 +138,7 @@
         "title": "Enforcer",
         "trees": [
             {
-                "title": "Shotguner",
+                "title": "Shotgunner",
                 "tiers": [
                     [
                         {
@@ -174,7 +174,7 @@
                     [
                         {
                             "title": "Overkill",
-                            "basic": "When you kill an enemy with a shotgun or the OVE9000 portable saw, you recieve a 75% damage increase for 10 seconds.",
+                            "basic": "When you kill an enemy with a shotgun or the OVE9000 portable saw, you receive a 75% damage increase for 10 seconds.",
                             "aced": "The damage bonus now applies to all weapons. Skill must still be activated using a shotgun or the OVE9000 portable saw."
                         }
                     ]
@@ -187,7 +187,7 @@
                         {
                             "title": "Oppressor",
                             "basic": "Your weapons are 75% more effective at threatening enemies.",
-                            "aced": "Reduces the visual effect duration of flashbands by 75%."
+                            "aced": "Reduces the visual effect duration of flashbangs by 75%."
                         }
                     ],
                     [
@@ -254,14 +254,14 @@
                         {
                             "title": "Carbon Blade",
                             "basic": "You replace your saw blades with carbon blades, increasing your saw efficiency by 40% and reducing the wear down of the blades on enemies by 50%.",
-                            "aced": "You can now saw through shield enemies with your OVE9000 portable saw. WHen killing an enemy with with saw, you have a X% cance to cause nearby enemies to panic. Panic will makes enemies go into short bursts of uncontrollable fear."
+                            "aced": "You can now saw through shield enemies with your OVE9000 portable saw. When killing an enemy with with saw, you have a X% chance to cause nearby enemies to panic. Panic will makes enemies go into short bursts of uncontrollable fear."
                         }
                     ],
                     [
                         {
                             "title": "Fully Loaded",
                             "basic": "Your total ammo capacity is increased by 25%.",
-                            "aced": "Increase the ammount of ammo you gain from ammo boxes by 75%. You also gain a X% base chance to get a throwable from an ammo box. The base chance is increased by Y% for each ammo box you pick up that does not contain a throwable. When a throwable has been found, the chance is reset to its base value. Note: Does not work with custom ammo and does not stack with the perk deck skill \"Walk-In Closet\""
+                            "aced": "Increase the amount of ammo you gain from ammo boxes by 75%. You also gain a X% base chance to get a throwable from an ammo box. The base chance is increased by Y% for each ammo box you pick up that does not contain a throwable. When a throwable has been found, the chance is reset to its base value. Note: Does not work with custom ammo and does not stack with the perk deck skill \"Walk-In Closet\""
                         }
                     ]
                 ]
@@ -277,7 +277,7 @@
                 "tiers": [
                     [
                         {
-                            "title": "Defence Up",
+                            "title": "Defense Up",
                             "basic": "Your sentry guns cost 25% less ammo to deploy.",
                             "aced": "Your sentry guns gain a protective shield."
                         }
@@ -310,7 +310,7 @@
                         {
                             "title": "Tower Defense",
                             "basic": "You can now carry 2 extra sentry guns.",
-                            "aced": "You can now carray an additional 2 extra sentry guns."
+                            "aced": "You can now carry an additional 2 extra sentry guns."
                         }
                     ]
                 ]
@@ -353,7 +353,7 @@
                         {
                             "title": "Fire Trap",
                             "basic": "The duration of the trip mine fire effect is increased by X and the radius of the fire effect is increased by Y.",
-                            "aced": "Your trip mines now spread fire around the area of detonation for X seconds in a Y radis."
+                            "aced": "Your trip mines now spread fire around the area of detonation for X seconds in a Y radius."
                         }
                     ]
                 ]
@@ -384,7 +384,7 @@
                         {
                             "title": "Shock and Awe",
                             "basic": "You can now hip-fire with your weapons while sprinting.",
-                            "aced": "Killing X enemies with SMG, LMG, and rifles fired in automatic mode will reduce your next reload time by up to 60^. This bonus is reduced by 1% for each buller above 20 in total magazine size, down to a minimum of 20% reload time reduction."
+                            "aced": "Killing X enemies with SMG, LMG, and rifles fired in automatic mode will reduce your next reload time by up to 60^. This bonus is reduced by 1% for each bullet above 20 in total magazine size, down to a minimum of 20% reload time reduction."
                         },
                         {
                             "title": "Fast Fire",
@@ -480,8 +480,8 @@
                         },
                         {
                             "title": "Shockproof",
-                            "basic": "The taser's sock attack has a 30% chance to backfire when targeted at you, casing the taser to be knocked back.",
-                            "aced": "When tased, you are able to free yourself from the taser by presing [F] within 2 seconds of being tased."
+                            "basic": "The taser's shock attack has a 30% chance to backfire when targeted at you, casing the taser to be knocked back.",
+                            "aced": "When tased, you are able to free yourself from the taser by pressing [F] within 2 seconds of being tased."
                         }
                     ],
                     [
@@ -498,15 +498,15 @@
                 "tiers": [
                     [
                         {
-                            "title": "Camoflage",
-                            "basic": "You are 15% less likely to be targeted by enemies when you are close to one of your crew memebers.",
-                            "aced": "You are now 30% less likely to be targeted by enemies when you are close to one of your crew memebers."
+                            "title": "Camouflage",
+                            "basic": "You are 15% less likely to be targeted by enemies when you are close to one of your crew members.",
+                            "aced": "You are now 30% less likely to be targeted by enemies when you are close to one of your crew members."
                         }
                     ],
                     [
                         {
                             "title": "Optic Illusions",
-                            "basic": "You gain 1 concealment for each silenced weapon you have equiped.",
+                            "basic": "You gain 1 concealment for each silenced weapon you have equipped.",
                             "aced": "Reduces the concealment penalty of silencers by 2."
                         },
                         {
@@ -640,8 +640,8 @@
                     ],
                     [
                         {
-                            "title": "Frency",
-                            "basic": "You start at and connot heal above 30% of your maximum health. You also take 40% less health damage.",
+                            "title": "Frenzy",
+                            "basic": "You start at and cannot heal above 30% of your maximum health. You also take 40% less health damage.",
                             "aced": "Health damage taken is now reduced by 60%."
                         },
                         {
@@ -664,7 +664,7 @@
                     ],
                     [
                         {
-                            "title": "Beserker",
+                            "title": "Berserker",
                             "basic": "The lower your health, the more damage you do. When your health is below 50%, you will do up to 250% more melee and saw damage.",
                             "aced": "The lower your health, the more damage you do. When your health is below 50%, you will do up to 100% more damage with ranged weapons as well."
                         }
